@@ -18,7 +18,7 @@ function App() {
             <BarChart />
           </div>
           <div className='col -sm-6'>
-            <h5 className="text-center text-secondary">Todas Vendas</h5>
+            <h5 className="text-center text-secondary">% das Vendas</h5>
             <DonutChart />
           </div>
           <div className="py-3">
